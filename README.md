@@ -1,2 +1,2 @@
-# ComputaGrafica2020-1
+# Computacao grafica
 Fujioka
